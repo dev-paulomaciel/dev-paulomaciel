@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Paulo Maciel! 🇧🇷
 
-[![Linkedin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](www.linkedin.com/in/paulo-maciel-80309731b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-maciel-80309731b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulinmaciel)
 
 ![Paulo Maciel GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-paulomaciel&show_icons=true&theme=dracula)
